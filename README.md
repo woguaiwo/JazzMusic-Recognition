@@ -6,5 +6,5 @@ In winter vacation, I invited a friend to further develop the recognition model 
 
 There were two major breakthroughs afterwards, the first one was that, we discovered the training feature (Mel-spectrogram) could be further compressed as the input of model. Additionally, with greater training epoch number, our model accuracy increased to around 45%. Then, we reflect upon this breakthrough, began focusing on understanding, and exploring music features. Eventually, we extracted 6 features, and used a similar way in RNN to combine them in a single CNN model, and reached an accuracy of around 96%.
 
-	Our further goals on this project, is to try out applying transformers to develop a music generator, plus, further improving original work to make the accuracy reaching 100%. 
+Our further goals on this project, is to try out applying transformers to develop a music generator, plus, further improving original work to make the accuracy reaching 100%. 
 
