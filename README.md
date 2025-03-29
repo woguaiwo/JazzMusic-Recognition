@@ -10,7 +10,7 @@ A CNN-based model is used for training.
 
 The model combines the features of Mel-Spectrogram, MFCC, Chroma Features, Zero-Crossing Rate, Spectral Centroid, and Spectral Roll-off.
 
-The model achieves a final accuracy of 96%.
+The latest version model(Version 2-5) achieves a final accuracy of 96%.
 
 
 
